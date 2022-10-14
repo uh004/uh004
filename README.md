@@ -1,6 +1,6 @@
 <div style="text-align:center">
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=270&width=100%&section=header&text=baesuhan%20GitHub&fontSize=100%&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=270&width=100&section=header&text=baesuhan%20GitHub&fontSize=100%&animation=scaleIn)
 </div>
 <div style="text-align:center">
 <h3 align="center"> MY TEAM Github😄</h3>
