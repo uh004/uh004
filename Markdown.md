@@ -9,36 +9,36 @@
 ### 제목(header)
 ```
 <h1> ~ <h6> 까지 제목 표현 방법
-# 제목 1
-## 제목 2
-### 제목 3
-#### 제목 4
-##### 제목 5
-###### 제목 6
+# 가나다라마바 1
+## 가나다라마바 2
+### 가나다라마바 3
+#### 가나다라마바 4
+##### 가나다라마바 5
+###### 가나다라마바 6
 ```
-# 제목 1
-## 제목 2
-### 제목 3
-#### 제목 4
-##### 제목 5
-###### 제목 6
+# 가나다라마바 1
+## 가나다라마바 2
+### 가나다라마바 3
+#### 가나다라마바 4
+##### 가나다라마바 5
+###### 가나다라마바 6
 ### 강조(emphasis)
 ```
-*This text will be italic* 
-_This will also be italic_ 
+*i love you*  이탤릭체
+_i love you_ 
 
-**This text will be bold** 
-__This will also be bold__ 
+**i love you** 강조
+__i love you__  
 
-*You **can** combine them*
+*i **love** you*
 ```
-*This text will be italic*  <br>
-_This will also be italic_  <br>
- 
-**This text will be bold**  <br>
-__This will also be bold__  <br>
+*i love you*  <br>
+_i love you_  <br>
 
-*You **can** combine them* <br>
+**i love you**  <br>
+__i love you__  <br>
+
+*i **love** you* <br>
 ### 목록(list)
 ```
 순서있는 목록
@@ -51,29 +51,29 @@ __This will also be bold__  <br>
 3. 세번째
 ```
 순서없는 목록
-* 빨강
-  * 녹색
-    * 파랑
+* red
+  * green
+    * blue
 
-+ 빨강
-  + 녹색
-    + 파랑
++ red
+  + green
+    + blue
 
-- 빨강
-  - 녹색
-    - 파랑
+- red
+  - green
+    - blue
 ```
-* 빨강
-  * 녹색
-    * 파랑
+* red
+  * green
+    * blue
 
-+ 빨강
-  + 녹색
-    + 파랑
++ red
+  + green
+    + blue
 
-- 빨강
-  - 녹색
-    - 파랑
+- red
+  - green
+    - blue
 ### 링크(links)
 ```
 [GitHub](http://github.com "깃허브")
