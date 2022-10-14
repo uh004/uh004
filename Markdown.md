@@ -85,14 +85,16 @@ __This will also be bold__  <br>
 
 ### 이미지(images)
 ```
-마트다운 형식
-![캡처](/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG)
+마크다운 형식
+![다운로드sdfd](https://user-images.githubusercontent.com/105197524/195865824-8d5c57c1-342c-469b-ab44-890d1d2680dc.jpg)
 태그 형식
-<img src="/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG"  width="700" height="370">
+<img src="https://user-images.githubusercontent.com/105197524/195865835-d5d8b25a-374f-43dd-91bf-071aa6efc398.jpg"  width="700" height="370">
 ```
-![캡처](/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG)
-태그 형식
-<img src="/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG"  width="700" height="370">
+
+![다운로드sdfd](https://user-images.githubusercontent.com/105197524/195865824-8d5c57c1-342c-469b-ab44-890d1d2680dc.jpg) <br>
+
+<img src="https://user-images.githubusercontent.com/105197524/195865824-8d5c57c1-342c-469b-ab44-890d1d2680dc.jpg"> <br>
+
 ### 테이블(Table)
 ```
 테이블 생성
