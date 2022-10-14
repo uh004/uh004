@@ -10,7 +10,7 @@
 
 <div align = "center">
 
-## **Tech**🤝
+## **Language**🤝
 </div>
 
 <div align = "center">
@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
-
 
 
 
