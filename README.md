@@ -24,7 +24,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 
- ## <a href="https://github.com/uh004/uh004/blob/main/Markdown.md" target="_blank">마크다운 사용방법</a>
+## 마크다운 태그와 사용방법
+ ### <li><a href="https://github.com/uh004/uh004/blob/main/Markdown.md" target="_blank">마크다운 설명서</a>
 
 <!--
 ### Hi there 👋
