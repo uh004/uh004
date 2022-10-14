@@ -1,13 +1,12 @@
 <div style="text-align:center">
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=baesuhan%20GitHub&fontSize=80&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=270&width=100%&section=header&text=baesuhan%20GitHub&fontSize=100%&animation=scaleIn)
 </div>
 <div style="text-align:center">
 <h3 align="center"> MY TEAM Github😄</h3>
 <p align="center">
   <br>
   <a href="https://github.com/oss3team" target="_blank"><img src="https://img.shields.io/badge/myteam-green?height=100?width = 100?style=for-the-badge&Color=white"/></a>
-
 
 <div align = "center">
 
