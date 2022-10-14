@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=270&width=100&section=header&text=baesuhan%20GitHub&fontSize=100%&animation=scaleIn)
 </div>
 <div style="text-align:center">
+<p align="center">
+❤️<strong>DongYang Mirae University Student</strong>❤️
 <h3 align="center"> MY TEAM Github😄</h3>
 <p align="center">
   <br>
