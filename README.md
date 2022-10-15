@@ -27,6 +27,9 @@
 ## 마크다운 태그와 사용방법
  ### <li><a href="https://github.com/uh004/uh004/blob/main/Markdown.md" target="_blank">마크다운 설명서</a>
 
+
+## 학교에서 배운 내용정리
+### <li><a href="https://github.com/uh004/uh004/blob/main/textbook1%EC%9E%A5.md">깃과 버전 관리</li>
 <!--
 ### Hi there 👋
 **uh004/uh004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
