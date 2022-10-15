@@ -30,7 +30,14 @@
 
 ## 학교에서 배운 내용정리
 ### <li><a href="https://github.com/uh004/uh004/blob/main/textbook1%EC%9E%A5.md">깃과 버전 관리</li>
-<!--
+### <li><a href="https://github.com/uh004/uh004/blob/main/textbook2%EC%9E%A5.md">깃 환경설정</li>
+  
+
+  
+  
+  
+  
+  <!--
 ### Hi there 👋
 **uh004/uh004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
