@@ -33,11 +33,12 @@
 ### <li><a href="https://github.com/uh004/uh004/blob/main/textbook2%EC%9E%A5.md">깃 환경설정</li> 
 ### <li><a href="https://github.com/uh004/uh004/blob/main/textbook3%EC%9E%A5.md">깃 개념</li> 
 ### <li><a href="https://github.com/uh004/uh004/blob/main/textbook4%EC%9E%A5.md">커밋 내용</li> 
+### <li><a href="https://github.com/uh004/uh004/blob/main/textbook5%EC%9E%A5.md">서버</li> 
 
 ## 많이 쓰는 깃명령어
 ### <li><a href="https://github.com/uh004/uh004/blob/main/github%20%EB%AA%85%EB%A0%B9%EC%96%B41.md">add, commit, log, show</li>   
 
-  
+
   <!--
 ### Hi there 👋
 **uh004/uh004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
