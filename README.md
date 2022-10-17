@@ -37,7 +37,7 @@
 
 ## 많이 쓰는 깃명령어
 ### <li><a href="https://github.com/uh004/uh004/blob/main/github%20%EB%AA%85%EB%A0%B9%EC%96%B41.md">add, commit, log, show</li>   
-
+### <li><a href="https://github.com/uh004/uh004/blob/main/github%20%EB%AA%85%EB%A0%B9%EC%96%B42.md">clone, push, pull, fetch/merge</li>   
 
   <!--
 ### Hi there 👋
