@@ -5,10 +5,8 @@
 <div style="text-align:center">
 <p align="center">
 ❤️<strong>DongYang Mirae University Student</strong>❤️
-<h3 align="center"> MY TEAM Github😄</h3>
+<h3 align="center"><a href="https://github.com/oss3team"> MY TEAM Github😄</a></h3>
 <p align="center">
-  <br>
-  <a href="https://github.com/oss3team" target="_blank"><img src="https://img.shields.io/badge/myteam-green?height=100?width = 100?style=for-the-badge&Color=white"/></a>
 
 <div align = "center">
 
