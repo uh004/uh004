@@ -21,6 +21,10 @@
 <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
+  
+## 🏆My Github stats
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uh004&show_icons=true&theme=tokyonight)
 
 ## 마크다운 태그와 사용방법
  ### <li><a href="https://github.com/uh004/uh004/blob/main/Markdown.md" target="_blank">마크다운 설명서</a>
