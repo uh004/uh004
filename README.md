@@ -23,23 +23,8 @@
 </div>
   
 ## 🏆My Github stats
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uh004&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uh004&show_icons=true&theme=tokyonight) 
 
-## 마크다운 태그와 사용방법
- ### <li><a href="https://github.com/uh004/uh004/blob/main/Markdown.md" target="_blank">마크다운 설명서</a>
-
-
-## 학교에서 배운 내용정리
-### <li><a href="https://github.com/uh004/uh004/blob/main/textbook1%EC%9E%A5.md">깃과 버전 관리</li>
-### <li><a href="https://github.com/uh004/uh004/blob/main/textbook2%EC%9E%A5.md">깃 환경설정</li> 
-### <li><a href="https://github.com/uh004/uh004/blob/main/textbook3%EC%9E%A5.md">깃 개념</li> 
-### <li><a href="https://github.com/uh004/uh004/blob/main/textbook4%EC%9E%A5.md">커밋 내용</li> 
-### <li><a href="https://github.com/uh004/uh004/blob/main/textbook5%EC%9E%A5.md">서버</li> 
-
-## 많이 쓰는 깃명령어
-### <li><a href="https://github.com/uh004/uh004/blob/main/github%20%EB%AA%85%EB%A0%B9%EC%96%B41.md">add, commit, log, show</li>   
-### <li><a href="https://github.com/uh004/uh004/blob/main/github%20%EB%AA%85%EB%A0%B9%EC%96%B42.md">clone, push, pull, fetch/merge</li>   
 
   <!--
 ### Hi there 👋
