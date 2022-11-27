@@ -1,7 +1,6 @@
-<div style="text-align:center">
+## Soft <a id="soft">
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=baesuhan%20GitHub%20&fontSize=60&animation=twinkling)
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=270&width=100&section=header&text=baesuhan%20GitHub&fontSize=100%&animation=scaleIn)
-</div>
 <div style="text-align:center">
 <p align="center">
 ❤️<strong>DongYang Mirae University Student</strong>❤️
@@ -39,5 +38,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
+<div style="text-align:center">
 
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=270&width=100&section=header&text=baesuhan%20GitHub&fontSize=100%&animation=scaleIn)
+</div>
 -->
