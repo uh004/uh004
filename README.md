@@ -1,7 +1,7 @@
-## Soft <a id="soft">
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=baesuhan%20GitHub%20&fontSize=60&animation=twinkling)
 
 <div style="text-align:center">
+  
 <p align="center">
 ❤️<strong>DongYang Mirae University Student</strong>❤️
 <h3 align="center"><a href="https://github.com/oss3team"> MY TEAM Github😄</a></h3>
@@ -19,10 +19,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-</div>
   
 ## 🏆My Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uh004&show_icons=true&theme=tokyonight) 
+</div>
+  
+
 
 
   <!--
