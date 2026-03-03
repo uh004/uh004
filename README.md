@@ -21,43 +21,113 @@
 ### 🔧 Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 
+## 🚀 Projects <- 정리하기
+
+<details>
+<summary><b>SmartChain-HD</b> | AI 기반 협력사 리스크 관리 플랫폼 <i>(2026.02 ~)</i></summary>
+
 <br>
 
-## 🚀 Projects
+**"HD현대중공업 및 협력사를 위한 맞춤형 컴플라이언스 및 리스크 관리 플랫폼을 구축했습니다."**
 
-* **SmartChain-HD** | AI 기반 협력사 리스크 관리 플랫폼 *(2026.02 ~)*
-  * **설명:** HD현대중공업 및 협력사를 위한 컴플라이언스 및 리스크 관리 플랫폼
-  * **역할:** (수행하신 역할 작성)
-  * **Tech:** Python 등
-  * [GitHub Repo](https://github.com/SmartChain-HD)
-* **ai_lecture-generator** | AI 강사 ppt 기반 강의 영상 생성 *(2025.11 ~)*
-  * **설명:** PPT를 입력하면 그 내용을 바탕으로 AI 강사가 설명하는 강의 영상 생성 서비스
-  * **역할:** (수행하신 역할 작성)
-  * **Tech:** (사용 기술 작성)
-  * [GitHub Repo](https://github.com/uh004/ai_lecture-generator)
-* **ai_interview_agent** | 이력서 기반 AI 면접관 *(2025.10 ~)*
-  * **설명:** 이력서를 입력하면 내용을 바탕으로 면접을 진행하는 서비스
-  * **역할:** (수행하신 역할 작성)
-  * **Tech:** (사용 기술 작성)
-  * [GitHub Repo](https://github.com/uh004/ai_interview_agent)
-* **ShowRoom** | 3D 공간 재구성 서비스 아이디어 기획 *(2025.07 ~)*
-  * **설명:** 2D 이미지만으로 3D 공간을 재구성하는 서비스 (아이디어 기획 및 설계 중심)
-  * **역할:** 아이디어 기획 및 시스템 구조 설계
-  * **Tech:** Python, PyTorch, TensorFlow, KOBERT, OpenCV 등
-  * [GitHub Repo](https://github.com/uh004/ShowRoom)
-* **Eating_shot** | 당뇨병 환자용 식단 조절 및 케어 서비스 *(2024.07 ~ 2024.11)*
-  * **설명:** 당뇨병 환자들을 위한 식단 조절 및 건강 케어 서비스
-  * **Tech:** Django, FastAPI, Docker, Redis 등
-  * [GitHub Repo](https://github.com/uh004/Eating_shot)
+* **🎯 Situation & Task (배경 및 목표):** 협력사의 리스크를 사전에 파악하고 필터링해야 하는 비즈니스 문제 정의
+* **💡 Action (나의 역할 및 해결 과정):**
+  * (어떤 데이터를 어떻게 처리했는지 구체적인 액션 1줄)
+  * (어떤 AI/DX 역량을 발휘하여 문제를 해결했는지 1줄)
+* **📈 Result (성과 및 배운 점):** (업무 효율화 수치 혹은 기대 효과, 트러블슈팅 경험 등)
+* **🛠️ Tech:** Python, (추가 스택)
+* 🔗 [GitHub Repository](https://github.com/SmartChain-HD)
+</details>
 
-* **2025 GovTech** | 공공 기술 혁신 아이디어 기획 *(2025.11)*
-  * **설명:** (어떤 공공 문제를 해결하고자 했는지, 어떤 아이디어였는지 1~2줄 요약해서 적어주세요)
-  * **역할:** 아이디어 기획 및 구체화
+<details>
+<summary><b>ai_lecture-generator</b> | AI 강사 ppt 기반 강의 영상 생성 <i>(2025.11 ~)</i></summary>
 
-* **"미술치료" 논문** (한국실천공학교육학회 발표)
-  * **설명:** 최근 10년간 '미술치료' 관련 논문 2,972편 크롤링 및 텍스트 마이닝 기법을 활용한 연구 동향 분석
-  * **주요 기술:** TF-IDF, Word2Vec, Keyword Network 분석, WordCloud 등
-  * **결과:** 학회 발표 및 게재 완료
+<br>
+
+**"PPT 자료만 입력하면 AI 강사가 자동으로 내용을 설명하는 강의 영상 생성 서비스를 개발했습니다."**
+
+* **🎯 Situation & Task:** 기존 영상 제작의 비효율성을 개선하기 위한 자동화 파이프라인 기획
+* **💡 Action (나의 역할 및 해결 과정):**
+  * (PPT 내용 추출 및 요약 로직 구현 등 본인의 핵심 기여)
+  * (TTS나 영상 생성 모델 연동 등)
+* **📈 Result (성과 및 배운 점):** (파이프라인 구축 완료, 특정 문제 해결 경험 등)
+* **🛠️ Tech:** (사용 기술 작성)
+* 🔗 [GitHub Repository](https://github.com/uh004/ai_lecture-generator)
+</details>
+
+<details>
+<summary><b>ai_interview_agent</b> | 이력서 기반 AI 면접관 <i>(2025.10 ~)</i></summary>
+
+<br>
+
+**"사용자의 이력서 데이터를 분석하여 맞춤형 질문을 던지는 AI 면접관 서비스를 구현했습니다."**
+
+* **🎯 Situation & Task:** 개인화된 면접 경험을 제공하기 위한 LLM 프롬프트 및 시스템 설계
+* **💡 Action (나의 역할 및 해결 과정):**
+  * (이력서 데이터 파싱 및 RAG/프롬프트 엔지니어링 수행 내역 등)
+* **📈 Result (성과 및 배운 점):** (AI 응답 품질 개선 경험 등)
+* **🛠️ Tech:** (사용 기술 작성)
+* 🔗 [GitHub Repository](https://github.com/uh004/ai_interview_agent)
+</details>
+
+<details>
+<summary><b>ShowRoom</b> | 3D 공간 재구성 서비스 기획 <i>(2025.07 ~)</i></summary>
+
+<br>
+
+**"2D 이미지만으로 3D 공간을 재구성하는 혁신적인 서비스 아이디어를 기획하고 시스템 구조를 설계했습니다."**
+
+* **🎯 Situation & Task:** 공간 재구성의 진입 장벽을 낮추기 위한 2D to 3D 변환 아이디어 도출
+* **💡 Action (나의 역할 및 기획 과정):**
+  * KOBERT, OpenCV 등을 활용한 기술적 실현 가능성 검토 및 시스템 아키텍처 설계
+  * 핵심 기능 명세 및 UI/UX 시나리오 기획
+* **📈 Result (성과 및 배운 점):** (기획력 및 기술 설계 역량 강화)
+* **🛠️ Tech:** Python, PyTorch, TensorFlow, KOBERT, OpenCV 등
+* 🔗 [GitHub Repository](https://github.com/uh004/ShowRoom)
+</details>
+
+<details>
+<summary><b>Eating_shot</b> | 당뇨병 환자용 식단 조절 및 케어 서비스 <i>(2024.07 ~ 2024.11)</i></summary>
+
+<br>
+
+**"당뇨병 환자들의 실질적인 건강 관리를 돕는 식단 조절 및 케어 백엔드 시스템을 구축했습니다."**
+
+* **🎯 Situation & Task:** 환자 맞춤형 식단 데이터 처리 및 안정적인 서비스 제공 필요
+* **💡 Action (나의 역할 및 해결 과정):**
+  * (FastAPI/Django를 활용한 API 설계 및 구현)
+  * (Docker, Redis를 활용한 인프라 세팅 및 성능 최적화 등)
+* **📈 Result (성과 및 배운 점):** (안정적인 백엔드 시스템 구축 경험)
+* **🛠️ Tech:** Django, FastAPI, Docker, Redis 등
+* 🔗 [GitHub Repository](https://github.com/uh004/Eating_shot)
+</details>
+
+<details>
+<summary><b>2025 GovTech</b> | 공공 기술 혁신 아이디어 기획 <i>(2025.11)</i></summary>
+
+<br>
+
+**"공공 부문의 기술적 문제 해결을 위한 혁신적인 아이디어를 기획하고 구체화했습니다."**
+
+* **🎯 Situation & Task:** (어떤 공공 문제를 타겟팅 했는지 작성)
+* **💡 Action (나의 기여):** 아이디어 기획 및 실행 방안 구체화
+* **📈 Result:** (경진대회 제출 및 기획안 완성)
+</details>
+
+<details>
+<summary><b>"미술치료" 논문</b> | 한국실천공학교육학회 발표</summary>
+
+<br>
+
+**"최근 10년간의 관련 논문 2,972편을 크롤링하고 텍스트 마이닝하여 미술치료 연구 동향을 분석했습니다."**
+
+* **🎯 Situation & Task:** 방대한 문헌 데이터 속에서 유의미한 연구 트렌드 도출 필요
+* **💡 Action (분석 과정):**
+  * Python 기반 웹 크롤링으로 약 3천 편의 논문 데이터 수집
+  * TF-IDF, Word2Vec, Keyword Network, WordCloud를 활용한 텍스트 마이닝 및 시각화 수행
+* **📈 Result (성과):** 분석 결과를 바탕으로 논문 작성 및 한국실천공학교육학회 발표/게재 완료
+* **🛠️ Tech:** TF-IDF, Word2Vec, 텍스트 마이닝 등
+</details>
 
 ## 🎓 Education & Training
 
