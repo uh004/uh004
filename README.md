@@ -21,21 +21,27 @@
 ### 🔧 Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 
-## 🚀 Projects <- 정리하기
+## 🚀 Projects
 
 <details>
 <summary><b>SmartChain-HD</b> | AI 기반 협력사 리스크 관리 플랫폼 <i>(2026.02 ~)</i></summary>
 
 <br>
 
-**"HD현대중공업 및 협력사를 위한 맞춤형 컴플라이언스 및 리스크 관리 플랫폼을 구축했습니다."**
+**"HD현대중공업 협력사 컴플라이언스 자동검증 및 규정 Q&A 챗봇 구축"**
 
-* **🎯 Situation & Task (배경 및 목표):** 협력사의 리스크를 사전에 파악하고 필터링해야 하는 비즈니스 문제 정의
-* **💡 Action (나의 역할 및 해결 과정):**
-  * (어떤 데이터를 어떻게 처리했는지 구체적인 액션 1줄)
-  * (어떤 AI/DX 역량을 발휘하여 문제를 해결했는지 1줄)
-* **📈 Result (성과 및 배운 점):** (업무 효율화 수치 혹은 기대 효과, 트러블슈팅 경험 등)
-* **🛠️ Tech:** Python, (추가 스택)
+* **🎯 Situation & Task (배경 및 목표)**
+  * 협력사 제출 증빙 수기 검토 프로세스의 누락/판단 편차/처리 지연 문제 정의
+  * 컴플라이언스 사전 리스크 필터링 체계 및 규정 질의 대응 채널 구축 목표 설정
+* **💡 Action (나의 역할 및 해결 과정)**
+  * **컴플라이언스 파트:** PDF/XLSX/이미지 자동 분류, OCR·데이터 추출, 슬롯 기반 검증, 교차검증, 최종 판정까지의 6단계 파이프라인 설계 및 구현
+  * **챗봇 파트:** 규정 문서 임베딩·적재, 벡터 검색+BM25 재정렬, 대화 맥락 기반 질의 재작성 적용 RAG Q&A API 설계 및 구현
+* **📈 Result (성과 및 배운 점)**
+  * 문서 검토 프로세스 표준화 및 핵심 수작업 단계 자동화
+  * 평균 검토시간 **10분 → 1분 (90% 단축)**, 보완요청 재작업률 **30% → 5%** 개선
+  * 규정 문의 응답시간 평균 **15분 → 5초** 개선
+  * OCR/LLM/검색 실패 대비 fallback 구조를 통한 운영 안정성 확보 경험 축적
+* **🛠️ Tech:** Python, FastAPI, OpenAI API, ChromaDB, LangChain, Pandas, PyMuPDF, Naver Clova OCR, BM25(rank-bm25), Streamlit, Pydantic, httpx
 * 🔗 [GitHub Repository](https://github.com/SmartChain-HD)
 </details>
 
