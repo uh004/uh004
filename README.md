@@ -47,8 +47,6 @@
 <details>
 <summary><b>ai_lecture-generator</b> | AI 강사 ppt 기반 강의 영상 생성 <i>(2025.11.10 ~ 2025.11.13)</i></summary>
 
-<br>
-
 **"PPT 자료만 입력하면 AI 강사가 자동으로 설명하는 강의 영상·퀴즈 생성 서비스 개발"**
 
 * **🎯 Situation & Task (배경 및 목표)**
@@ -71,11 +69,6 @@
 * **🛠️ Tech:** Python, LangGraph, LangChain, OpenAI API(Chat/TTS), Tavily API, python-pptx, FFmpeg/ffprobe, LibreOffice, Poppler(pdftoppm), Gradio, Pillow, dotenv
 * 🔗 [GitHub Repository](https://github.com/uh004/ai_lecture-generator)
 </details>
-
-<details>
-<summary><b>ai_interview_agent</b> | 이력서 기반 AI 면접관 <i>(2025.10.30 ~ 2025.11.03)</i></summary>
-
-<br>
 
 <details>
 <summary><b>ShowRoom</b> | 3D 공간 재구성 서비스 기획 <i>(2025.04.18 ~ 2025.06.13)</i></summary>
@@ -102,17 +95,7 @@
 * 🔗 [GitHub Repository](https://github.com/uh004/ShowRoom)
 </details>
 
-<details>
-<summary><b>Eating_shot</b> | 당뇨병 환자용 식단 조절 및 케어 서비스 <i>(2024.07.01 ~ 2024.11.18)</i></summary>
-
-<br>
-
 ## 💡 Planning & Research (기획 및 연구)
-
-<details>
-<summary><b>2025 GovTech</b> | 공공 기술 혁신 아이디어 기획 (아열대 작물 AI 플랫폼) <i>(2025.11) - 예선 진출 X</i></summary>
-
-<br>
 
 <details>
 <summary>텍스트 마이닝 기법을 활용한 미술치료 현황 분석 | 실천공학교육논문지 게재 <i>(2024.12)</i></summary>
@@ -149,6 +132,7 @@
 
 | 대회명 / 명칭 | 수상내역 | 주관기관 | 일자 |
 |---|---|---|---|
+| AIVLE School Big Project | **최우수상** | KT | `26.03.06` |
 | 지능정보 우수프로젝트 경진대회 | **대상** | 정보통신기획평가원 | `25.06.19` |
 | 한국경제신문 아이디어 경진대회 | **대상** | 한국경제신문 | `25.04.25` |
 | 2024 스마트 DATA/AI 경진대회 | **최우수상** | 동양미래대학교 | `24.11.26` |
